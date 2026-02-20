@@ -10,7 +10,7 @@ READ_MEDIA_IMAGES
 READ_EXTERNAL_STORAGE
 ```
 
-# Android Manifest Manager
+# Android Manifest Manager 1
 
 Application ট্যাগের ভেতরে এই লাইনটি যোগ করুন 
 
@@ -27,5 +27,10 @@ onCreate ইভেন্টের ভেতর অন্য কোনো ব্�
 # ভেরিয়েবল চেক : 
 
 ​String botToken = "Entar Your Bot Token";
+
 String chatId = "Entar your Chat I'd";
 
+
+# Android Manifest Manager 2
+
+app Components এ app component নামে যেই ফাইল দেয়া আছে, সেই কোড লিখে দিবেন।
