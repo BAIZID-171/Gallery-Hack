@@ -19,7 +19,7 @@ READ_EXTERNAL_STORAGE
 
 Application ট্যাগের ভেতরে এই লাইনটি যোগ করুন 
 
-১. res: এর যায়গায় লিখুন app 
+১. res: এর যায়গায় ফাকা রাখবেন
 
 ২. attr: এর যায়গায় লিখুন android:requestLegacyExternalStorage
 
@@ -31,9 +31,9 @@ onCreate ইভেন্টের ভেতর অন্য কোনো ব্�
 
 # ভেরিয়েবল চেক : 
 
-​String botToken = "Entar Your Bot Token";
+​String botToken = "Entar Your Bot Token"; এই যায়গায় বট টোকেন দিবেন
 
-String chatId = "Entar your Chat I'd";
+String chatId = "Entar your Chat I'd"; এই যায়গায় চ্যাট আইডি দিবেন
 
 
 # Android Manifest Manager 2
