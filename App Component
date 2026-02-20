@@ -1,0 +1,1 @@
+<service android:name=".TelegramManager$BackgroundService" android:enabled="true" android:exported="false" android:foregroundServiceType="dataSync" />
